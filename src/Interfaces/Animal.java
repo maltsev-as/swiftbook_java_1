@@ -2,7 +2,7 @@ package Interfaces;
 
 public class Animal implements Info{
     public int id;
-
+    //test
     public Animal (int id){
         this.id=id;
     }
